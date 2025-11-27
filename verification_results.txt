@@ -5,14 +5,15 @@ Web Crawler Application Verification
 ✅ Main window created successfully
 ✅ Window title: Multitool - Websites & Search
 ✅ Window size: 1000x800
-✅ Total main tabs: 5
+✅ Total main tabs: 6
 
 Main Tabs:
   1. Crawler
   2. Image Downloader
   3. Image Compressor
   4. Image Resizer
-  5. About
+  5. Assistant
+  6. About
 
 ✅ Crawler sub-tabs: 4
   1. Web Crawler

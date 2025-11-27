@@ -14,7 +14,7 @@ from PyQt6.QtWidgets import (
     QLineEdit, QLabel, QProgressBar, QFileDialog, QMessageBox, QGroupBox
 )
 from openpyxl import Workbook
-from openpyxl.styles import PatternFill
+from openpyxl.styles import PatternFill, Alignment, Font
 
 from workers.meta_product_workers import MetaCheckWorker, ProductSheetWorker
 
@@ -195,11 +195,22 @@ class MetaCheckerGUI(QWidget):
 
         # Choose the right sheet
         ws = wb.active
+        found_sheet = False
+        
+        # Priority 1: Look for "update" (e.g. "Updates")
         for name in wb.sheetnames:
-            low = name.lower()
-            if "h1" in low or "update" in low:
+            if "update" in name.lower():
                 ws = wb[name]
+                found_sheet = True
                 break
+        
+        # Priority 2: Look for other keywords if not found
+        if not found_sheet:
+            for name in wb.sheetnames:
+                low = name.lower()
+                if "h1" in low or "meta" in low:
+                    ws = wb[name]
+                    break
 
         rows = list(ws.iter_rows(values_only=True))
         if not rows:
@@ -236,16 +247,12 @@ class MetaCheckerGUI(QWidget):
 
                 # Expected H1
                 if h1_idx is None:
-                    if "expected" in h and "h1" in h:
-                        h1_idx = idx
-                    elif "expected" in h and "heading 1" in h:
+                    if "expected" in h and ("h1" in h or "heading 1" in h):
                         h1_idx = idx
 
                 # Expected Meta Title
                 if mt_idx is None:
-                    if "expected" in h and "meta" in h and "title" in h:
-                        mt_idx = idx
-                    elif "expected" in h and "title" in h and "page" in h:
+                    if "expected" in h and "title" in h and "og" not in h:
                         mt_idx = idx
 
                 # Expected Meta Description
@@ -446,10 +453,19 @@ class MetaCheckerGUI(QWidget):
 
         wb = Workbook()
 
+        # Define header style
+        header_fill = PatternFill(start_color="0070C0", end_color="0070C0", fill_type="solid")
+        header_font = Font(name="Calibri", size=11, bold=True, color="FFFFFF")
+
         # Summary
         ws_sum = wb.active
         ws_sum.title = "Summary"
         ws_sum.append(["Metric", "Value"])
+        
+        # Style Summary header
+        for cell in ws_sum[1]:
+            cell.fill = header_fill
+            cell.font = header_font
 
         total = len(self.results)
         def count_ok(field):
@@ -478,6 +494,11 @@ class MetaCheckerGUI(QWidget):
             }[f]
             headers.extend([f"Expected {label}", f"Current {label}", f"{label} Match"])
         ws.append(headers)
+        
+        # Style Details header
+        for cell in ws[1]:
+            cell.fill = header_fill
+            cell.font = header_font
 
         # Map for Match column indices, for coloring
         match_cols = {}
@@ -498,25 +519,33 @@ class MetaCheckerGUI(QWidget):
                 row.append(cur.get(f, ""))
                 val = m.get(f)
                 if val is True:
-                    row.append(True)
+                    row.append("TRUE")
                 elif val is False:
-                    row.append(False)
+                    row.append("FALSE")
                 else:
                     row.append("")
             ws.append(row)
 
-        # Color Match cells (green/red)
+        # Color Match cells (green/red) and enable text wrap
         green_fill = PatternFill(start_color="C6EFCE", end_color="C6EFCE", fill_type="solid")
         red_fill = PatternFill(start_color="FFC7CE", end_color="FFC7CE", fill_type="solid")
+        alignment_wrap = Alignment(wrap_text=True, vertical="top")
 
         for i, r in enumerate(ws.iter_rows(min_row=2, values_only=False), start=2):
+            for cell in r:
+                cell.alignment = alignment_wrap
+                
             for f in used_fields:
                 col = match_cols[f]
                 cell = ws.cell(row=i, column=col)
-                if cell.value is True:
+                if cell.value == "TRUE":
                     cell.fill = green_fill
-                elif cell.value is False:
+                elif cell.value == "FALSE":
                     cell.fill = red_fill
+
+        # Adjust column widths slightly
+        for col in ws.columns:
+            ws.column_dimensions[col[0].column_letter].width = 40
 
         wb.save(path)
         self.log(f"[EXPORT] Excel report saved to: {path}")
