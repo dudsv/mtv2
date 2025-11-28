@@ -1,0 +1,31 @@
+--- Element Inspection ---
+
+Text: 'Accueillir un chien chez soi est une expérience'
+  Found inside target block: <div class='clearfix text-formatted field field--name-field-c-text field--type-text-long field--label-hidden field__item'>
+
+Text: '10 noms de chiens japonais les plus populaires'
+  NOT inside target block. Immediate parent: <a class=''>
+
+Text: 'Top 10 des noms masculins de chiens au Japon'
+  NOT inside target block. Immediate parent: <a class=''>
+
+Text: 'Top 10 des noms féminins de chiens au Japon'
+  NOT inside target block. Immediate parent: <a class=''>
+
+Text: '20 noms de chiens japonais craquants'
+  NOT inside target block. Immediate parent: <a class=''>
+
+Text: '20 Noms de chiens japonais inspirés de la Pop culture'
+  NOT inside target block. Immediate parent: <a class=''>
+
+Text: '20 noms de plats japonais pour chiens'
+  NOT inside target block. Immediate parent: <a class=''>
+
+Text: 'Conseils pour choisir un nom japonais idéal pour votre chien'
+  NOT inside target block. Immediate parent: <a class=''>
+
+Text: 'Kotaro (petit garçon)'
+  Found inside target block: <div class='clearfix text-formatted field field--name-field-c-text field--type-text-long field--label-hidden field__item'>
+
+Text: 'Dango (boulettes)'
+  Found inside target block: <div class='clearfix text-formatted field field--name-field-c-text field--type-text-long field--label-hidden field__item'>

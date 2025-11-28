@@ -1,0 +1,180 @@
+Analyzing: c:\Users\duduv\OneDrive\Documentos\Coding\web_crawler_app\https___www.purina.fr_choisir-animal_articles_accueillir-chien_prenom_japonais.docx
+
+Total Paragraphs: 168
+Total Tables: 5
+
+--- Content Overview ---
+P0 [Normal]: Source: https://www.purina.fr/choisir-animal/articles/accueillir-chien/prenom/japonais
+P2 [Normal]: [DRUPAL BLOCK: block_content:dd9cabd0-8102-4b28-84a1-1630003edde1]
+P3 [Normal]: [DRUPAL BLOCK: block_content:0e827f36-c6c8-45a6-ad19-47cee3071cb8]
+P4 [Normal]: [DRUPAL BLOCK: system_breadcrumb_block]
+P5 [Normal]: [DRUPAL BLOCK: system_main_block]
+P6 [Normal]: [COMPONENT: Hero Article]
+P8 [Normal]: [COMPONENT: Contact Us Small]
+P10 [Normal]: Accueillir un chien chez soi est une expérience passionnante et réconfortante. Alors que vous vous p...
+P11 [Normal]: Les noms de chiens japonais vont bien au-delà de leur attrait phonétique. Ils évoquent la culture et...
+P12 [List Bullet]: 10 noms de chiens japonais les plus populaires
+P13 [List Bullet]: Top 10 des noms masculins de chiens au Japon
+P14 [List Bullet]: Top 10 des noms féminins de chiens au Japon
+P15 [List Bullet]: 20 noms de chiens japonais craquants
+P16 [List Bullet]: 20 noms de plats japonais pour chiens
+P17 [List Bullet]: 20 Noms de chiens japonais inspirés de la Pop culture
+P18 [List Bullet]: Conseils pour choisir un nom japonais idéal pour votre chien
+P19 [Heading 2]: 10 noms de chiens japonais les plus populaires
+P20 [Normal]: Vous êtes-vous déjà demandé quels sont les noms de chiens les plus populaires au Japon ? Nous en avo...
+P21 [List Bullet]: Aki (automne)
+P22 [List Bullet]: Hiro (généreux)
+P23 [List Bullet]: Kimi (noble)
+P24 [List Bullet]: Masumi (clarté)
+P25 [List Bullet]: Miyu (doux)
+P26 [List Bullet]: Momo (pêche)
+P27 [List Bullet]: Rina (jasmin)
+P28 [List Bullet]: Shinju (perle)
+P29 [List Bullet]: Yuki (neige)
+P30 [List Bullet]: Tadeo (loyal)
+P31 [Heading 2]: Top 10 des noms masculins de chiens au Japon
+P32 [Normal]: [COMPONENT: Text Image]
+P34 [List Number]: Kotaro (petit garçon)
+P35 [List Number]: Taro (aîné des garçons)
+P36 [List Number]: Crea (de "créer")
+P37 [List Number]: Maru (rond)
+P38 [List Number]: Taiyo (soleil)
+P39 [List Number]: Tsuki (lune)
+P40 [List Number]: Yuki (neige)
+P41 [List Number]: Nori (algue)
+P42 [List Number]: Kuuki (air)
+P43 [List Number]: Asami (beauté du matin)
+P44 [Heading 2]: Top 10 des noms féminins de chiens au Japon
+P45 [Normal]: Les noms suivants ne sont pas de simples noms, mais une célébration de la féminité, de la grâce et d...
+P46 [List Number]: Sakura (fleur de cerisier)
+P47 [List Number]: Nana (sept)
+P48 [List Number]: Kurumi (noix)
+P49 [List Number]: Runa (joueuse)
+P50 [List Number]: Emi (bénédiction)
+P51 [List Number]: Hana (fleur)
+P52 [List Number]: Kenzo (sage)
+P53 [List Number]: Hoshi (étoile)
+P54 [List Number]: Umi (mer ou océan)
+P55 [List Number]: Amaya (pluie nocturne)
+P56 [Heading 2]: 20 noms de chiens japonais craquants
+P57 [Normal]: Chacun de ces noms témoigne des qualités attachantes de nos amis à quatre pattes, offrant un mélange...
+P58 [List Number]: Jazu (de la musique de jazz)
+P59 [List Number]: Arata (frais)
+P60 [List Number]: Hideaki (brillant et lumineux)
+P61 [List Number]: 4.Kei (style)
+P62 [List Number]: Fuji (unique)
+P63 [List Number]: Ai (amour)
+P64 [List Number]: Akachan (bébé)
+P65 [List Number]: Aoi (bleu)
+P66 [List Number]: Pinku (rose)
+P67 [List Number]: Bashira (joyeux)
+P68 [List Number]: Ko (enfant)
+P69 [List Number]: Chiisai (petit)
+P70 [List Number]: Shuga (sucre)
+P71 [List Number]: Kiyo (pur)
+P72 [List Number]: Toshiro (talentueux)
+P73 [List Number]: Yuuma (doux)
+P74 [List Number]: Eiji (enjoué)
+P75 [List Number]: Kento (bonheur)
+P76 [List Number]: Taeko (courageux)
+P77 [List Number]: Tadaaki (lumière fidèle)
+P78 [Heading 2]: 20 noms de plats japonais pour chiens
+P79 [Normal]: [COMPONENT: Text Image]
+P81 [List Number]: Dango (boulettes)
+P82 [List Number]: Sushi (sushi)
+P83 [List Number]: Udon (nouilles udon)
+P84 [List Number]: Matcha (thé matcha)
+P85 [List Number]: Sashimi (sashimi)
+P86 [List Number]: Mochi (mochi)
+P87 [List Number]: Ramen (nouilles ramen)
+P88 [List Number]: Yuzu (fruit)
+P89 [List Number]: Soba (nouilles soba)
+P90 [List Number]: Kit-Kat (Kit Kat)
+P91 [List Number]: Kurumi (noix)
+P92 [List Number]: Momo (pêche)
+P93 [List Number]: Miso (soupe miso)
+P94 [List Number]: Takitori (brochettes de poulet grillé)
+P95 [List Number]: Gyoza (boulettes)
+P96 [List Number]: Senbei (biscuit de riz)
+P97 [List Number]: Teriyaki (sauce)
+P98 [List Number]: Katsu (escalope frite)
+P99 [List Number]: Tamago (omelette sucrée)
+P100 [List Number]: Anmitsu (dessert)
+P101 [Heading 2]: 20 Noms de chiens japonais inspirés de la Pop culture
+P102 [Normal]: Célébrez l'influence de la Pop culture japonaise en choisissant un nom de chien inspiré du monde des...
+P103 [List Number]: Totoro (du film « Mon voisin Totoro»)
+P104 [List Number]: Astro (d'après Astro Boy, un personnage populaire de manga et d'anime)
+P105 [List Number]: Amaterasu (déesse shintoïste du soleil)
+P106 [List Number]: Luna (de « Sailor Moon »)
+P107 [List Number]: Kawaii (qui signifie mignon)
+P108 [List Number]: Kenshin (d'après Himura Kenshin, le personnage de la série « Rurouni Kenshin »)
+P109 [List Number]: Asuka (d'après Asuka Langley Soryu de la série « Neon Genesis Evangelion »)
+P110 [List Number]: Goku (d'après le personnage emblématique de « Dragon Ball »)
+P111 [List Number]: Ryuk (de la série animée « Death Note »)
+P112 [List Number]: Pikachu (d'après le personnage emblématique de Pokemon)
+P113 [List Number]: Taiko (tambour japonais)
+P114 [List Number]: San (d'après le personnage de « Princesse Mononoké »)
+P115 [List Number]: Haku (d'après le personnage de « Spirited Away »)
+P116 [List Number]: Gyaru (fille)
+P117 [List Number]: Tanka (forme de poésie)
+P118 [List Number]: Nami (d'après le personnage de « One Piece »)
+P119 [List Number]: Kon (d'après le réalisateur Kon Ichikawa)
+P120 [List Number]: Sasuke (d'après le personnage de « Naruto »)
+P121 [List Number]: Maki (de « Street Fighter »)
+P122 [List Number]: Yuki (qui signifie neige)
+P123 [Heading 2]: Conseils pour choisir un nom japonais idéal pour votre chien
+P124 [Normal]: Lorsque vous choisissez un nom pour votre chien, il est important que vous observiez d'abord son tem...
+P125 [Normal]: Veillez également à tenir compte des sensibilités culturelles et à éviter d'utiliser des noms suscep...
+P126 [Normal]: Enfin, le nom de chien idéal est un choix personnel et il n'y a pas de bonne ou de mauvaise réponse....
+P127 [Normal]: Vous souhaitez explorer d'autres options de noms de chiens ? Lisez ensuite cet article sur lesmeille...
+P128 [Normal]: Aidez-nous à nous améliorer
+P129 [Normal]: Cet article vous a-t-il été utile ?
+P130 [Normal]: Merci de nous aider à améliorer l'expérience Purina.
+P131 [Heading 4]: Dites-nous en plus
+P132 [Normal]: Cochez la case pertinente
+P133 [Normal]: Je n'ai pas trouvé la réponse à ma question
+P134 [Normal]: Les informations sont confuses ou peu claires
+P135 [Normal]: Ces indications ne m'ont pas aidé
+P136 [Normal]: Laisser ce champ vide
+P137 [Normal]: L'équipe éditoriale de Purina
+P138 [Normal]: Notre équipe éditoriale Purina, composée d'experts de l'industrie des animaux de compagnie, de rédac...
+P139 [Normal]: [COMPONENT: Newsletter]
+P141 [Normal]: [DRUPAL BLOCK: block_content:eb564e7e-8959-4809-a742-f7fff8422fc6]
+P142 [Normal]: [DRUPAL BLOCK: block_content:5fd67f87-65ee-49d0-9cec-9da1ebadb2d7]
+P143 [Normal]: [DRUPAL BLOCK: block_content:43d59cb7-37a5-4b4c-8d6f-4bc591ec6436]
+P144 [Normal]: [DRUPAL BLOCK: block_content:ef4822ab-cd5d-4932-bd7b-ce60771c09a1]
+P145 [Normal]: [DRUPAL BLOCK: block_content:84a01a2b-497b-4ab3-aa25-6556eb7d49f7]
+P146 [Normal]: [DRUPAL BLOCK: block_content:47e7dc50-10de-4304-a1d9-394b11a6cb0b]
+P147 [Normal]: [DRUPAL BLOCK: block_content:0fbabf3f-3b7a-46d2-9f72-90e4daf6b696]
+P148 [Normal]: [DRUPAL BLOCK: block_content:fad8afd5-7800-425e-bd23-62a44f697002]
+P149 [Normal]: [DRUPAL BLOCK: block_content:59a75a96-2628-4bbe-8457-27ea86082710]
+P150 [Normal]: [DRUPAL BLOCK: block_content:7796dc36-0aff-427d-912f-6ec5aa067726]
+P151 [Normal]: [DRUPAL BLOCK: block_content:e579b331-cd76-4351-94df-b8c8fffdf27c]
+P152 [Normal]: [DRUPAL BLOCK: block_content:6f9d9428-ede4-4f51-9fd5-bbc200337d63]
+P153 [Normal]: [DRUPAL BLOCK: block_content:4946ce9f-8bc9-4048-a3ae-60e156fd8033]
+P154 [Normal]: [DRUPAL BLOCK: block_content:0ad87205-4914-439f-b12e-b78f56e8121e]
+P155 [Normal]: [DRUPAL BLOCK: block_content:bf66f109-65e7-4e13-822c-ba10a03b932c]
+P156 [Normal]: [DRUPAL BLOCK: block_content:ff1441a9-e1a5-4659-b8f0-cd76eab7e95d]
+P157 [Normal]: [DRUPAL BLOCK: block_content:71ea58a7-dad8-4df9-ba84-cb3655584342]
+P158 [Normal]: [DRUPAL BLOCK: block_content:e16b6bd9-cf3b-4a91-80ec-d0b2e42657fb]
+P159 [Normal]: [DRUPAL BLOCK: block_content:b379ac72-4e3a-4c11-aa41-0b6b477fb5a8]
+P160 [Normal]: [DRUPAL BLOCK: block_content:e0bd8e70-5140-4cae-82aa-03f308ea1c32]
+P161 [Normal]: [DRUPAL BLOCK: block_content:65108b81-4264-41f2-a379-6e1aa4b22b17]
+P162 [Normal]: [DRUPAL BLOCK: block_content:a619ba5b-385a-4b7c-92ae-b5f92ffc014b]
+P163 [Normal]: [DRUPAL BLOCK: block_content:de3ef185-73b7-471e-892f-eb531df26a30]
+P164 [Normal]: [DRUPAL BLOCK: block_content:24be703f-f2a3-41ee-bf15-6c240c57ee2f]
+P165 [Normal]: [DRUPAL BLOCK: block_content:328d280a-6548-4ddd-b939-64fe4b95eb46]
+P166 [Normal]: [DRUPAL BLOCK: block_content:e7f4a68e-bc52-4fa3-8124-e0e22418a800]
+P167 [Normal]: [DRUPAL BLOCK: block_content:fbe409fd-b021-4ee4-abc9-7eea003f6320]
+
+--- Table Overview ---
+Table 0: 1 rows, 2 columns
+  Row 0: ['IMAGE:\n/sites/default/files/styles/ttt_image_510/public/2025-03/avatar.png?itok=Q9uWa4xm', "Noms de chienTop 90 des noms de chiens japonaisL'équipe éditoriale de Purinajanvier 31, 2025Temps de lecture : 4 min"]
+Table 1: 1 rows, 2 columns
+  Row 0: ['IMAGE:\n/sites/default/files/styles/ttt_image_510/public/2022-04/contact-us-image.jpg?itok=daNUMjPe', 'Nous sommes là pour répondre à toutes vos questionsNous sommes là pour répondre à toutes vos questionsN’hésitez pas à nous contacter !Envoyez-nous un message']
+Table 2: 1 rows, 2 columns
+  Row 0: ['IMAGE:\n/sites/default/files/styles/ttt_image_510/public/2025-01/japanese_dog_names_1.jpg?itok=n1XAWOJu', "PreviousNext1sur1Lorsque vous choisissez un nom pour votre chien, vous pouvez opter pour un nom qui incarne l'esprit de la beauté, de la nature ou de l'espièglerie. Découvrez les noms de chiens les plus fascinants et les plus populaires au Japon.\n\nPreviousNext1sur1\n\nLorsque vous choisissez un nom pour votre chien, vous pouvez opter pour un nom qui incarne l'esprit de la beauté, de la nature ou de l'espièglerie. Découvrez les noms de chiens les plus fascinants et les plus populaires au Japon."]
+Table 3: 1 rows, 2 columns
+  Row 0: ['IMAGE:\n/sites/default/files/styles/ttt_image_510/public/2025-01/japanese_dog_names_2.jpg?itok=LfmYqv4l', "PreviousNext1sur1Du salé au sucré, ces noms s'inspirent de la riche tradition culinaire du Japon, offrant une touche unique et savoureuse à l'identité de votre animal. Consultez les noms suivants et choisissez-en un qui soit aussi savoureux et de bon goût que votre ami à quatre pattes.\n\nPreviousNext1sur1\n\nDu salé au sucré, ces noms s'inspirent de la riche tradition culinaire du Japon, offrant une touche unique et savoureuse à l'identité de votre animal. Consultez les noms suivants et choisissez-en un qui soit aussi savoureux et de bon goût que votre ami à quatre pattes."]
+Table 4: 1 rows, 2 columns
+  Row 0: ['IMAGE:\n/themes/custom/trim_the_tail_th/src/images/newsletter/paws/paw-dog-mobile.png', 'NewsletterInscrivez-vous à nos programmes afin de vous aider à prendre soin de votre animal !Chez Purina, nous sommes convaincus que les personnes et les\xa0animaux de compagnie vivent mieux ensemble. Nos programmes vous\xa0accompagne\xa0à toutes les étapes de la vie de votre animal.\u200bConseils et articles personnalisés aux besoins de votre animal\u200b.Un accès gratuit à nos équipes internes de vétérinaires, comportementalistes et conseillers.Réductions et offres spéciales sur nos marques\u200b.Rejoignez nos programmesJe m’inscris\n\nChez Purina, nous sommes convaincus que les personnes et les\xa0animaux de compagnie vivent mieux ensemble. Nos programmes vous\xa0accompagne\xa0à toutes les étapes de la vie de votre animal.\u200b\n\nRejoignez nos programmes']

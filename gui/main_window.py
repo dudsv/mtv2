@@ -15,6 +15,7 @@ from gui.crawler_gui import CrawlerGUI
 from gui.sitemap_extractor_gui import SitemapExtractorGUI
 from gui.broken_link_inspector_gui import BrokenLinkInspectorGUI
 from gui.meta_product_checker_guis import MetaCheckerGUI
+from gui.content_extractor_gui import ContentExtractorGUI
 from gui.image_tool_guis import ImageDownloaderGUI, ImageCompressorGUI, ImageResizerGUI
 from gui.chatbot_tab import ChatbotTab
 from gui.misc_tabs import AboutTab
@@ -53,6 +54,10 @@ class CrawlerMainGUI(QWidget):
         # Meta Checker tab
         self.meta_tab = MetaCheckerGUI()
         self.subtabs.addTab(self.meta_tab, "Meta Checker")
+
+        # Content Extractor tab
+        self.content_extractor_tab = ContentExtractorGUI()
+        self.subtabs.addTab(self.content_extractor_tab, "Content Extractor")
 
         # Note: ProductSheetCheckerGUI would be added here if extracted
         # self.product_tab = ProductSheetCheckerGUI()

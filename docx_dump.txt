@@ -1,0 +1,140 @@
+--- Content of c:\Users\duduv\OneDrive\Documentos\Coding\web_crawler_app\simulation_output\simulation_result_v7.docx ---
+
+P0 [Normal]: Source: https://www.purina.fr/choisir-animal/articles/accueillir-chien/prenom/japonais
+P2 [Heading 1]: Top 90 des noms de chiens japonais
+P4 [Normal]: Article category: Noms de chien - https://www.purina.fr/choisir-animal/articles/accueillir-chien/prenom
+P5 [Normal]: [COMPONENT: Hero Article]
+P7 [Normal]: [COMPONENT: Contact Us Small]
+P9 [Normal]: [COMPONENT: Text Block 1]
+P10 [Normal]: Accueillir un chien chez soi est une expérience passionnante et réconfortante. Alors que vous vous préparez à accueillir ce nouveau membre dans votre famille, l'une des premières décisions que vous prendrez sera de choisir le nom parfait pour votre compagnon à quatre pattes. Et quoi de mieux que de choisir l'un des noms de chiens japonais les plus populaires ?
+P11 [Normal]: Les noms de chiens japonais vont bien au-delà de leur attrait phonétique. Ils évoquent la culture et la tradition japonaises tout en ayant un charme linguistique unique. La culture japonaise, connue pour son élégance et sa sophistication, est une source de grands noms porteurs de significations profondes et d'importance historique. Des noms de chiens à la sonorité mignonne jusqu’aux noms inspirés par la nourriture ou la culture pop, découvrez notre liste des meilleurs noms de chiens japonais.
+P12 [Normal]: [COMPONENT: Text Block 2]
+P13 [Heading 2]: 10 noms de chiens japonais les plus populaires
+P14 [Normal]: Vous êtes-vous déjà demandé quels sont les noms de chiens les plus populaires au Japon ? Nous en avons dressé une liste complète afin que vous puissiez choisir le meilleur pour votre nouvelle boule de poils.
+P15 [List Bullet]: Aki (automne)
+P16 [List Bullet]: Hiro (généreux)
+P17 [List Bullet]: Kimi (noble)
+P18 [List Bullet]: Masumi (clarté)
+P19 [List Bullet]: Miyu (doux)
+P20 [List Bullet]: Momo (pêche)
+P21 [List Bullet]: Rina (jasmin)
+P22 [List Bullet]: Shinju (perle)
+P23 [List Bullet]: Yuki (neige)
+P24 [List Bullet]: Tadeo (loyal)
+P25 [Heading 2]: Top 10 des noms masculins de chiens au Japon
+P26 [Normal]: [COMPONENT: Text Image 1]
+P28 [Normal]: Lorsque vous choisissez un nom pour votre chien, vous pouvez opter pour un nom qui incarne l'esprit de la beauté, de la nature ou de l'espièglerie. Découvrez les noms de chiens les plus fascinants et les plus populaires au Japon.
+P30 [Normal]: [COMPONENT: Text Block 3]
+P31 [List Number]: Kotaro (petit garçon)
+P32 [List Number]: Taro (aîné des garçons)
+P33 [List Number]: Crea (de "créer")
+P34 [List Number]: Maru (rond)
+P35 [List Number]: Taiyo (soleil)
+P36 [List Number]: Tsuki (lune)
+P37 [List Number]: Yuki (neige)
+P38 [List Number]: Nori (algue)
+P39 [List Number]: Kuuki (air)
+P40 [List Number]: Asami (beauté du matin)
+P41 [Heading 2]: Top 10 des noms féminins de chiens au Japon
+P42 [Normal]: Les noms suivants ne sont pas de simples noms, mais une célébration de la féminité, de la grâce et du lien profond entre une chienne et son maître ou sa maîtresse. Voici quelques noms féminins pour votre chienne, qui résument l'esprit de la culture japonaise, créant une identité aussi unique et charmante que cette ravissante boule de poils.
+P43 [List Number]: Sakura (fleur de cerisier)
+P44 [List Number]: Nana (sept)
+P45 [List Number]: Kurumi (noix)
+P46 [List Number]: Runa (joueuse)
+P47 [List Number]: Emi (bénédiction)
+P48 [List Number]: Hana (fleur)
+P49 [List Number]: Kenzo (sage)
+P50 [List Number]: Hoshi (étoile)
+P51 [List Number]: Umi (mer ou océan)
+P52 [List Number]: Amaya (pluie nocturne)
+P53 [Heading 2]: 20 noms de chiens japonais craquants
+P54 [Normal]: Chacun de ces noms témoigne des qualités attachantes de nos amis à quatre pattes, offrant un mélange parfait de douceur et de charme.
+P55 [List Number]: Jazu (de la musique de jazz)
+P56 [List Number]: Arata (frais)
+P57 [List Number]: Hideaki (brillant et lumineux)
+P58 [List Number]: 4.Kei (style)
+P59 [List Number]: Fuji (unique)
+P60 [List Number]: Ai (amour)
+P61 [List Number]: Akachan (bébé)
+P62 [List Number]: Aoi (bleu)
+P63 [List Number]: Pinku (rose)
+P64 [List Number]: Bashira (joyeux)
+P65 [List Number]: Ko (enfant)
+P66 [List Number]: Chiisai (petit)
+P67 [List Number]: Shuga (sucre)
+P68 [List Number]: Kiyo (pur)
+P69 [List Number]: Toshiro (talentueux)
+P70 [List Number]: Yuuma (doux)
+P71 [List Number]: Eiji (enjoué)
+P72 [List Number]: Kento (bonheur)
+P73 [List Number]: Taeko (courageux)
+P74 [List Number]: Tadaaki (lumière fidèle)
+P75 [Heading 2]: 20 noms de plats japonais pour chiens
+P76 [Normal]: [COMPONENT: Text Image 2]
+P78 [Normal]: Du salé au sucré, ces noms s'inspirent de la riche tradition culinaire du Japon, offrant une touche unique et savoureuse à l'identité de votre animal. Consultez les noms suivants et choisissez-en un qui soit aussi savoureux et de bon goût que votre ami à quatre pattes.
+P80 [Normal]: [COMPONENT: Text Block 4]
+P81 [List Number]: Dango (boulettes)
+P82 [List Number]: Sushi (sushi)
+P83 [List Number]: Udon (nouilles udon)
+P84 [List Number]: Matcha (thé matcha)
+P85 [List Number]: Sashimi (sashimi)
+P86 [List Number]: Mochi (mochi)
+P87 [List Number]: Ramen (nouilles ramen)
+P88 [List Number]: Yuzu (fruit)
+P89 [List Number]: Soba (nouilles soba)
+P90 [List Number]: Kit-Kat (Kit Kat)
+P91 [List Number]: Kurumi (noix)
+P92 [List Number]: Momo (pêche)
+P93 [List Number]: Miso (soupe miso)
+P94 [List Number]: Takitori (brochettes de poulet grillé)
+P95 [List Number]: Gyoza (boulettes)
+P96 [List Number]: Senbei (biscuit de riz)
+P97 [List Number]: Teriyaki (sauce)
+P98 [List Number]: Katsu (escalope frite)
+P99 [List Number]: Tamago (omelette sucrée)
+P100 [List Number]: Anmitsu (dessert)
+P101 [Heading 2]: 20 Noms de chiens japonais inspirés de la Pop culture
+P102 [Normal]: Célébrez l'influence de la Pop culture japonaise en choisissant un nom de chien inspiré du monde des anime, des mangas et des figures emblématiques du Japon. Choisissez un nom qui reflète non seulement la personnalité de votre chien, mais qui rend également hommage à l'univers captivant des divertissements japonais.
+P103 [List Number]: Totoro (du film « Mon voisin Totoro»)
+P104 [List Number]: Astro (d'après Astro Boy, un personnage populaire de manga et d'anime)
+P105 [List Number]: Amaterasu (déesse shintoïste du soleil)
+P106 [List Number]: Luna (de « Sailor Moon »)
+P107 [List Number]: Kawaii (qui signifie mignon)
+P108 [List Number]: Kenshin (d'après Himura Kenshin, le personnage de la série « Rurouni Kenshin »)
+P109 [List Number]: Asuka (d'après Asuka Langley Soryu de la série « Neon Genesis Evangelion »)
+P110 [List Number]: Goku (d'après le personnage emblématique de « Dragon Ball »)
+P111 [List Number]: Ryuk (de la série animée « Death Note »)
+P112 [List Number]: Pikachu (d'après le personnage emblématique de Pokemon)
+P113 [List Number]: Taiko (tambour japonais)
+P114 [List Number]: San (d'après le personnage de « Princesse Mononoké »)
+P115 [List Number]: Haku (d'après le personnage de « Spirited Away »)
+P116 [List Number]: Gyaru (fille)
+P117 [List Number]: Tanka (forme de poésie)
+P118 [List Number]: Nami (d'après le personnage de « One Piece »)
+P119 [List Number]: Kon (d'après le réalisateur Kon Ichikawa)
+P120 [List Number]: Sasuke (d'après le personnage de « Naruto »)
+P121 [List Number]: Maki (de « Street Fighter »)
+P122 [List Number]: Yuki (qui signifie neige)
+P123 [Heading 2]: Conseils pour choisir un nom japonais idéal pour votre chien
+P124 [Normal]: Lorsque vous choisissez un nom pour votre chien, il est important que vous observiez d'abord son tempérament et ses caractéristiques uniques. Un nom qui reflète sa personnalité peut créer un lien significatif. Il est également conseillé de se familiariser avec la culture, les traditions et l'histoire du Japon avant de choisir un nom de chien japonais.
+P125 [Normal]: Veillez également à tenir compte des sensibilités culturelles et à éviter d'utiliser des noms susceptibles d'avoir des implications religieuses ou historiques spécifiques. Il est très important de respecter la culture dont vous vous inspirez.
+P126 [Normal]: Enfin, le nom de chien idéal est un choix personnel et il n'y a pas de bonne ou de mauvaise réponse. Faites-vous plaisir dans votre démarche et, surtout, amusez-vous avec votre nouveau compagnon à quatre pattes !
+P127 [Normal]: Vous souhaitez explorer d'autres options de noms de chiens ? Lisez ensuite cet article sur les meilleurs prénoms de petits chiens  (https://www.purina.fr/choisir-animal/articles/accueillir-chien/prenom/chien-petite-taille)!
+
+--- Table 0 ---
+R0: IMAGE:
+https://www.purina.fr/sites/default/files/styles/ttt_image_510/public/2025-03/avatar.png?itok=Q9uWa4xm | Noms de chienTop 90 des noms de chiens japonaisL'équipe éditoriale de Purinajanvier 31, 2025Temps de lecture : 4 min
+
+--- Table 1 ---
+R0: IMAGE:
+https://www.purina.fr/sites/default/files/styles/ttt_image_510/public/2022-04/contact-us-image.jpg?itok=daNUMjPe | Nous sommes là pour répondre à toutes vos questionsNous sommes là pour répondre à toutes vos questionsN’hésitez pas à nous contacter !Envoyez-nous un message
+
+--- Table 2 ---
+R0: Image Position: Left
+IMAGE:
+https://www.purina.fr/sites/default/files/styles/ttt_image_510/public/2025-01/japanese_dog_names_1.jpg?itok=n1XAWOJu | Alt Text: Top 90 des noms de chiens japonais
+
+--- Table 3 ---
+R0: Image Position: Left
+IMAGE:
+https://www.purina.fr/sites/default/files/styles/ttt_image_510/public/2025-01/japanese_dog_names_2.jpg?itok=LfmYqv4l | Alt Text: Top 90 des noms de chiens japonais

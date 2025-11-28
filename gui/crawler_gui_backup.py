@@ -35,12 +35,11 @@ class CrawlerGUI(QWidget):
         self.search_input = QLineEdit()
         self.url_input = QTextEdit()
         self.extract_options = {
-            "title": QCheckBox("Extract Page Title (<title>)"),
-            "h1": QCheckBox("Extract H1 Tag (<h1>)"),
-            "meta_description": QCheckBox("Extract Meta Description (Standard)"),
-            "og_tags": QCheckBox("Extract OG Tags (Title/Desc/Image)"),
-            "schema": QCheckBox("Extract Schema JSON-LD"),
-            "meta_tags": QCheckBox("Extract All Meta Tags"),
+            "title": QCheckBox("Extract Title"),
+            "meta_title": QCheckBox("Extract Meta Title"),
+            "meta_description": QCheckBox("Extract Meta Description"),
+            "content": QCheckBox("Extract Content (Under Dev as .docx)"),
+            "meta_tags": QCheckBox("Extract Meta Tags"),
         }
         self.check_errors = QCheckBox("Log 403 and 404 Errors")
         self.progress = QProgressBar()

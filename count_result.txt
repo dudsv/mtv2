@@ -1,0 +1,3 @@
+Fetching https://www.purina.fr/choisir-animal/articles/accueillir-chien/prenom/japonais...
+Elements containing all target classes: 4
+Elements with EXACT match (no extra classes): 4
